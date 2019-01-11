@@ -2,7 +2,7 @@
 Build Fingerprint authentication
 
 
-![images](https://raw.githubusercontent.com/edinofricaniago/kotlin-fingerprint/master/image/demo.gif =250x)
+![images](https://raw.githubusercontent.com/edinofricaniago/kotlin-fingerprint/master/image/demo.gif)
 
 ### Required
 - Kotlin language 
