@@ -3,4 +3,12 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="normal">#6b8c94</color>
+    <color name="success">#19a594</color>
+    <color name="failure">#f75a31</color>
+
+
+    <color name="textDisable">#bdbdbd</color>
+    <color name="textHint">#808080</color>
 </resources>
